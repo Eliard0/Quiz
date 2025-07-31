@@ -27,10 +27,13 @@ Este é um aplicativo simples de Quiz desenvolvido com UIKit, com foco em treina
 - `QuestionView`: view customizada que exibe o título da pergunta e os botões de opções  
 - `QuestionViewController`: gerencia a lógica do quiz e exibe os alerts  
 - `ViewController`: tela inicial com botão para iniciar o quiz
+  
+---
 
-![Tela inicial do app](<img width="406" height="862" alt="Captura de Tela 2025-07-31 às 15 42 56" src="https://github.com/user-attachments/assets/092c6a4e-2f1c-4662-8792-9d123e5fd09a" />)
-![Tela de perguntas](<img width="406" height="862" alt="Captura de Tela 2025-07-31 às 15 43 13" src="https://github.com/user-attachments/assets/c058e744-3dfd-4e1c-b0fe-3e7a1dc1da2e" />)
-![Resposta errada](<img width="406" height="862" alt="Captura de Tela 2025-07-31 às 15 43 21" src="https://github.com/user-attachments/assets/b7a3e4f3-96b8-49f3-ac42-89f28ae06f55" />)
-![Resposta correta](<img width="406" height="862" alt="Captura de Tela 2025-07-31 às 15 43 33" src="https://github.com/user-attachments/assets/64db8cea-53bd-4db2-b5b8-8ab62182f24a" />)
-
+<p align="center">
+<img width="250" height="350" alt="Captura de Tela 2025-07-31 às 15 42 56" src="https://github.com/user-attachments/assets/092c6a4e-2f1c-4662-8792-9d123e5fd09a" />
+<img width="250" height="350" alt="Captura de Tela 2025-07-31 às 15 43 13" src="https://github.com/user-attachments/assets/c058e744-3dfd-4e1c-b0fe-3e7a1dc1da2e" />
+<img width="250" height="350" alt="Captura de Tela 2025-07-31 às 15 43 21" src="https://github.com/user-attachments/assets/b7a3e4f3-96b8-49f3-ac42-89f28ae06f55" />
+<img width="250" height="350" alt="Captura de Tela 2025-07-31 às 15 43 33" src="https://github.com/user-attachments/assets/64db8cea-53bd-4db2-b5b8-8ab62182f24a" />
+</p>
 
