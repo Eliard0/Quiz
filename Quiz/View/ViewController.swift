@@ -54,7 +54,7 @@ class ViewController: UIViewController {
     }
     
     @objc func buttonInitialQuizNavigate(){
-        print("clicando no botao")
+        let quizVC = QuestionViewController()
+        navigationController?.pushViewController(quizVC, animated: true)
     }
 }
-
